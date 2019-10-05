@@ -1,0 +1,7 @@
+fire
+tqdm
+torchnet
+pandas
+tensorboardX
+torchvision
+torch
